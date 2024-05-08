@@ -1,0 +1,25 @@
+{
+    "status": "running",
+    "todos": [
+        {
+            "ID": 1,
+            "name": "TODO 1",
+            "status": "Active"
+        },
+        {
+            "ID": 2,
+            "name": "TODO 2",
+            "status": "In-progress"
+        },
+        {
+            "ID": 51,
+            "name": "Complete Homework",
+            "status": "In-progress"
+        },
+        {
+            "ID": 5782,
+            "name": "Hello",
+            "status": "Completed"
+        }
+    ]
+}
